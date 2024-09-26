@@ -1,0 +1,3 @@
+C:/Users/prath/OneDrive/Desktop/Projects/Rubik's Cube Solver/cmake-build-debug/CMakeFiles/RubiksCubeSolver.dir
+C:/Users/prath/OneDrive/Desktop/Projects/Rubik's Cube Solver/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/prath/OneDrive/Desktop/Projects/Rubik's Cube Solver/cmake-build-debug/CMakeFiles/rebuild_cache.dir
